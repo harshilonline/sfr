@@ -20,7 +20,7 @@ To install this project, follow these steps:
 
 To use this project, follow these instructions:
 
-1. git clone <repo_url>
+1. git clone git@github.com:harshilonline/sfr.git
 2. Export the project to intellij or vscode build & run it via editor
 3. Update delivery_points.txt file with values or points that you want to use to find
    shortest distance.

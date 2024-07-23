@@ -2,10 +2,10 @@
 import java.io.IOException;
 import org.junit.Test;
 import static org.junit.jupiter.api.Assertions.*;
-import java.util.List; // Add this import statement
-import java.util.ArrayList; // Add this import statement
-import com.example.NearestNeighborTSP; // Add this import statement
-import com.example.Point; // Add this import statement
+import java.util.List;
+import java.util.ArrayList;
+import com.example.NearestNeighborTSP;
+import com.example.Point;
 
 public class NearestNeighborTSPTest {
 
